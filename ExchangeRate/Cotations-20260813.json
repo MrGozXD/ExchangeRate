@@ -1,0 +1,658 @@
+[
+  {
+    "fromTo": "USDAED",
+    "rate": 3.6725
+  },
+  {
+    "fromTo": "USDAFN",
+    "rate": 65.108
+  },
+  {
+    "fromTo": "USDALL",
+    "rate": 80.47
+  },
+  {
+    "fromTo": "USDAMD",
+    "rate": 365.99
+  },
+  {
+    "fromTo": "USDANG",
+    "rate": 1.79
+  },
+  {
+    "fromTo": "USDAOA",
+    "rate": 917.45
+  },
+  {
+    "fromTo": "USDARS",
+    "rate": 1491.32
+  },
+  {
+    "fromTo": "USDAUD",
+    "rate": 1.4168
+  },
+  {
+    "fromTo": "USDAWG",
+    "rate": 1.7901
+  },
+  {
+    "fromTo": "USDAZN",
+    "rate": 1.6995
+  },
+  {
+    "fromTo": "USDBAM",
+    "rate": 1.6942
+  },
+  {
+    "fromTo": "USDBBD",
+    "rate": 2.0327
+  },
+  {
+    "fromTo": "USDBDT",
+    "rate": 123.31
+  },
+  {
+    "fromTo": "USDBHD",
+    "rate": 0.376
+  },
+  {
+    "fromTo": "USDBIF",
+    "rate": 2995.47
+  },
+  {
+    "fromTo": "USDBMD",
+    "rate": 1.0
+  },
+  {
+    "fromTo": "USDBND",
+    "rate": 1.2798
+  },
+  {
+    "fromTo": "USDBOB",
+    "rate": 11.7309
+  },
+  {
+    "fromTo": "USDBRL",
+    "rate": 5.159
+  },
+  {
+    "fromTo": "USDBSD",
+    "rate": 1.0105
+  },
+  {
+    "fromTo": "USDBTN",
+    "rate": 95.35
+  },
+  {
+    "fromTo": "USDBWP",
+    "rate": 13.2298
+  },
+  {
+    "fromTo": "USDBYN",
+    "rate": 2.9674
+  },
+  {
+    "fromTo": "USDBZD",
+    "rate": 2.0317
+  },
+  {
+    "fromTo": "USDCAD",
+    "rate": 1.3927
+  },
+  {
+    "fromTo": "USDCDF",
+    "rate": 2278.48
+  },
+  {
+    "fromTo": "USDCHF",
+    "rate": 0.8118
+  },
+  {
+    "fromTo": "USDCLP",
+    "rate": 913.97
+  },
+  {
+    "fromTo": "USDCNH",
+    "rate": 6.7404
+  },
+  {
+    "fromTo": "USDCNY",
+    "rate": 6.741
+  },
+  {
+    "fromTo": "USDCOP",
+    "rate": 3129.33
+  },
+  {
+    "fromTo": "USDCRC",
+    "rate": 451.38
+  },
+  {
+    "fromTo": "USDCUP",
+    "rate": 24.0
+  },
+  {
+    "fromTo": "USDCVE",
+    "rate": 95.51
+  },
+  {
+    "fromTo": "USDCZK",
+    "rate": 21.01
+  },
+  {
+    "fromTo": "USDDJF",
+    "rate": 177.24
+  },
+  {
+    "fromTo": "USDDKK",
+    "rate": 6.4776
+  },
+  {
+    "fromTo": "USDDOP",
+    "rate": 59.2
+  },
+  {
+    "fromTo": "USDDZD",
+    "rate": 132.93
+  },
+  {
+    "fromTo": "USDEGP",
+    "rate": 50.197
+  },
+  {
+    "fromTo": "USDERN",
+    "rate": 15.2284
+  },
+  {
+    "fromTo": "USDETB",
+    "rate": 160.46
+  },
+  {
+    "fromTo": "USDEUR",
+    "rate": 0.86621
+  },
+  {
+    "fromTo": "USDFJD",
+    "rate": 2.2187
+  },
+  {
+    "fromTo": "USDFKP",
+    "rate": 0.74026
+  },
+  {
+    "fromTo": "USDGBP",
+    "rate": 0.74026
+  },
+  {
+    "fromTo": "USDGEL",
+    "rate": 2.6135
+  },
+  {
+    "fromTo": "USDGGP",
+    "rate": 0.74026
+  },
+  {
+    "fromTo": "USDGHS",
+    "rate": 11.6183
+  },
+  {
+    "fromTo": "USDGIP",
+    "rate": 0.74768
+  },
+  {
+    "fromTo": "USDGMD",
+    "rate": 73.336
+  },
+  {
+    "fromTo": "USDGNF",
+    "rate": 8270
+  },
+  {
+    "fromTo": "USDGTQ",
+    "rate": 7.628
+  },
+  {
+    "fromTo": "USDGYD",
+    "rate": 210.97
+  },
+  {
+    "fromTo": "USDHKD",
+    "rate": 7.8533
+  },
+  {
+    "fromTo": "USDHNL",
+    "rate": 26.814
+  },
+  {
+    "fromTo": "USDHTG",
+    "rate": 130.71
+  },
+  {
+    "fromTo": "USDHUF",
+    "rate": 315.7
+  },
+  {
+    "fromTo": "USDIDR",
+    "rate": 17850
+  },
+  {
+    "fromTo": "USDILS",
+    "rate": 2.9926
+  },
+  {
+    "fromTo": "USDIMP",
+    "rate": 0.74026
+  },
+  {
+    "fromTo": "USDINR",
+    "rate": 95.35
+  },
+  {
+    "fromTo": "USDIQD",
+    "rate": 1309.61
+  },
+  {
+    "fromTo": "USDIRR",
+    "rate": 1370869
+  },
+  {
+    "fromTo": "USDISK",
+    "rate": 122.98
+  },
+  {
+    "fromTo": "USDJEP",
+    "rate": 0.74026
+  },
+  {
+    "fromTo": "USDJMD",
+    "rate": 157.0
+  },
+  {
+    "fromTo": "USDJOD",
+    "rate": 0.709
+  },
+  {
+    "fromTo": "USDJPY",
+    "rate": 159.27
+  },
+  {
+    "fromTo": "USDKES",
+    "rate": 129.1
+  },
+  {
+    "fromTo": "USDKGS",
+    "rate": 87.47
+  },
+  {
+    "fromTo": "USDKHR",
+    "rate": 4051.61
+  },
+  {
+    "fromTo": "USDKMF",
+    "rate": 426.67
+  },
+  {
+    "fromTo": "USDKRW",
+    "rate": 1416.19
+  },
+  {
+    "fromTo": "USDKWD",
+    "rate": 0.30781
+  },
+  {
+    "fromTo": "USDKYD",
+    "rate": 0.8372
+  },
+  {
+    "fromTo": "USDKZT",
+    "rate": 465.56
+  },
+  {
+    "fromTo": "USDLAK",
+    "rate": 22518
+  },
+  {
+    "fromTo": "USDLBP",
+    "rate": 89899
+  },
+  {
+    "fromTo": "USDLKR",
+    "rate": 333.63
+  },
+  {
+    "fromTo": "USDLRD",
+    "rate": 181.74
+  },
+  {
+    "fromTo": "USDLSL",
+    "rate": 16.15
+  },
+  {
+    "fromTo": "USDLYD",
+    "rate": 6.3708
+  },
+  {
+    "fromTo": "USDMAD",
+    "rate": 9.3001
+  },
+  {
+    "fromTo": "USDMDL",
+    "rate": 17.3256
+  },
+  {
+    "fromTo": "USDMGA",
+    "rate": 4281.72
+  },
+  {
+    "fromTo": "USDMKD",
+    "rate": 53.307
+  },
+  {
+    "fromTo": "USDMMK",
+    "rate": 2097.84
+  },
+  {
+    "fromTo": "USDMNT",
+    "rate": 3596.39
+  },
+  {
+    "fromTo": "USDMOP",
+    "rate": 8.0889
+  },
+  {
+    "fromTo": "USDMRO",
+    "rate": 39.57
+  },
+  {
+    "fromTo": "USDMRU",
+    "rate": 40.128
+  },
+  {
+    "fromTo": "USDMUR",
+    "rate": 47.13
+  },
+  {
+    "fromTo": "USDMVR",
+    "rate": 15.3995
+  },
+  {
+    "fromTo": "USDMWK",
+    "rate": 1737.0
+  },
+  {
+    "fromTo": "USDMXN",
+    "rate": 17.0699
+  },
+  {
+    "fromTo": "USDMYR",
+    "rate": 4.0867
+  },
+  {
+    "fromTo": "USDMZN",
+    "rate": 63.635
+  },
+  {
+    "fromTo": "USDNAD",
+    "rate": 16.1578
+  },
+  {
+    "fromTo": "USDNGN",
+    "rate": 1362.05
+  },
+  {
+    "fromTo": "USDNIO",
+    "rate": 36.779
+  },
+  {
+    "fromTo": "USDNOK",
+    "rate": 9.4901
+  },
+  {
+    "fromTo": "USDNPR",
+    "rate": 152.58
+  },
+  {
+    "fromTo": "USDNZD",
+    "rate": 1.7046
+  },
+  {
+    "fromTo": "USDOMR",
+    "rate": 0.3845
+  },
+  {
+    "fromTo": "USDPAB",
+    "rate": 1.0
+  },
+  {
+    "fromTo": "USDPEN",
+    "rate": 3.3669
+  },
+  {
+    "fromTo": "USDPGK",
+    "rate": 4.4256
+  },
+  {
+    "fromTo": "USDPHP",
+    "rate": 61.188
+  },
+  {
+    "fromTo": "USDPKR",
+    "rate": 278.35
+  },
+  {
+    "fromTo": "USDPLN",
+    "rate": 3.7291
+  },
+  {
+    "fromTo": "USDPYG",
+    "rate": 5967
+  },
+  {
+    "fromTo": "USDQAR",
+    "rate": 3.64
+  },
+  {
+    "fromTo": "USDRON",
+    "rate": 4.5408
+  },
+  {
+    "fromTo": "USDRSD",
+    "rate": 101.69
+  },
+  {
+    "fromTo": "USDRUB",
+    "rate": 82.76
+  },
+  {
+    "fromTo": "USDRWF",
+    "rate": 1471.74
+  },
+  {
+    "fromTo": "USDSAR",
+    "rate": 3.75
+  },
+  {
+    "fromTo": "USDSBD",
+    "rate": 8.0122
+  },
+  {
+    "fromTo": "USDSCR",
+    "rate": 14.2034
+  },
+  {
+    "fromTo": "USDSDG",
+    "rate": 600.15
+  },
+  {
+    "fromTo": "USDSEK",
+    "rate": 9.5305
+  },
+  {
+    "fromTo": "USDSGD",
+    "rate": 1.2798
+  },
+  {
+    "fromTo": "USDSHP",
+    "rate": 0.74026
+  },
+  {
+    "fromTo": "USDSLE",
+    "rate": 24.483
+  },
+  {
+    "fromTo": "USDSOS",
+    "rate": 571.47
+  },
+  {
+    "fromTo": "USDSRD",
+    "rate": 37.943
+  },
+  {
+    "fromTo": "USDSSP",
+    "rate": 5372
+  },
+  {
+    "fromTo": "USDSTN",
+    "rate": 21.335
+  },
+  {
+    "fromTo": "USDSVC",
+    "rate": 8.7529
+  },
+  {
+    "fromTo": "USDSYP",
+    "rate": 122.03
+  },
+  {
+    "fromTo": "USDSZL",
+    "rate": 16.1582
+  },
+  {
+    "fromTo": "USDTHB",
+    "rate": 33.078
+  },
+  {
+    "fromTo": "USDTJS",
+    "rate": 9.2376
+  },
+  {
+    "fromTo": "USDTMT",
+    "rate": 3.5
+  },
+  {
+    "fromTo": "USDTND",
+    "rate": 2.9316
+  },
+  {
+    "fromTo": "USDTOP",
+    "rate": 2.3642
+  },
+  {
+    "fromTo": "USDTRY",
+    "rate": 47.751
+  },
+  {
+    "fromTo": "USDTTD",
+    "rate": 6.747
+  },
+  {
+    "fromTo": "USDTWD",
+    "rate": 32.209
+  },
+  {
+    "fromTo": "USDTZS",
+    "rate": 2642.62
+  },
+  {
+    "fromTo": "USDUAH",
+    "rate": 44.724
+  },
+  {
+    "fromTo": "USDUGX",
+    "rate": 3717.53
+  },
+  {
+    "fromTo": "USDUSD",
+    "rate": 1.0
+  },
+  {
+    "fromTo": "USDUYU",
+    "rate": 40.262
+  },
+  {
+    "fromTo": "USDUZS",
+    "rate": 11923
+  },
+  {
+    "fromTo": "USDVES",
+    "rate": 762.7
+  },
+  {
+    "fromTo": "USDVND",
+    "rate": 26034
+  },
+  {
+    "fromTo": "USDVUV",
+    "rate": 117.19
+  },
+  {
+    "fromTo": "USDWST",
+    "rate": 2.7118
+  },
+  {
+    "fromTo": "USDXAF",
+    "rate": 568.2
+  },
+  {
+    "fromTo": "USDXAG",
+    "rate": 0.01532
+  },
+  {
+    "fromTo": "USDXAU",
+    "rate": 0.00023
+  },
+  {
+    "fromTo": "USDXCD",
+    "rate": 2.7392
+  },
+  {
+    "fromTo": "USDXCG",
+    "rate": 1.7962
+  },
+  {
+    "fromTo": "USDXDR",
+    "rate": 0.73161
+  },
+  {
+    "fromTo": "USDXOF",
+    "rate": 568.2
+  },
+  {
+    "fromTo": "USDXPD",
+    "rate": 0.00072
+  },
+  {
+    "fromTo": "USDXPF",
+    "rate": 103.4
+  },
+  {
+    "fromTo": "USDXPT",
+    "rate": 0.00056
+  },
+  {
+    "fromTo": "USDYER",
+    "rate": 237.22
+  },
+  {
+    "fromTo": "USDZAR",
+    "rate": 16.1342
+  },
+  {
+    "fromTo": "USDZMW",
+    "rate": 18.7468
+  },
+  {
+    "fromTo": "USDZWG",
+    "rate": 26.57
+  }
+]
