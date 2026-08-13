@@ -5,15 +5,15 @@
   },
   {
     "fromTo": "USDAFN",
-    "rate": 65.108
+    "rate": 65.128
   },
   {
     "fromTo": "USDALL",
-    "rate": 80.47
+    "rate": 80.51
   },
   {
     "fromTo": "USDAMD",
-    "rate": 365.99
+    "rate": 366.0
   },
   {
     "fromTo": "USDANG",
@@ -21,35 +21,35 @@
   },
   {
     "fromTo": "USDAOA",
-    "rate": 917.45
+    "rate": 917.96
   },
   {
     "fromTo": "USDARS",
-    "rate": 1491.32
+    "rate": 1491.78
   },
   {
     "fromTo": "USDAUD",
-    "rate": 1.4168
+    "rate": 1.4169
   },
   {
     "fromTo": "USDAWG",
-    "rate": 1.7901
+    "rate": 1.7911
   },
   {
     "fromTo": "USDAZN",
-    "rate": 1.6995
+    "rate": 1.6998
   },
   {
     "fromTo": "USDBAM",
-    "rate": 1.6942
+    "rate": 1.6941
   },
   {
     "fromTo": "USDBBD",
-    "rate": 2.0327
+    "rate": 2.0338
   },
   {
     "fromTo": "USDBDT",
-    "rate": 123.31
+    "rate": 123.34
   },
   {
     "fromTo": "USDBHD",
@@ -57,7 +57,7 @@
   },
   {
     "fromTo": "USDBIF",
-    "rate": 2995.47
+    "rate": 2996.3
   },
   {
     "fromTo": "USDBMD",
@@ -69,47 +69,47 @@
   },
   {
     "fromTo": "USDBOB",
-    "rate": 11.7309
+    "rate": 11.7266
   },
   {
     "fromTo": "USDBRL",
-    "rate": 5.159
+    "rate": 5.162
   },
   {
     "fromTo": "USDBSD",
-    "rate": 1.0105
+    "rate": 1.0109
   },
   {
     "fromTo": "USDBTN",
-    "rate": 95.35
+    "rate": 95.34
   },
   {
     "fromTo": "USDBWP",
-    "rate": 13.2298
+    "rate": 13.2326
   },
   {
     "fromTo": "USDBYN",
-    "rate": 2.9674
+    "rate": 2.9694
   },
   {
     "fromTo": "USDBZD",
-    "rate": 2.0317
+    "rate": 2.0328
   },
   {
     "fromTo": "USDCAD",
-    "rate": 1.3927
+    "rate": 1.3928
   },
   {
     "fromTo": "USDCDF",
-    "rate": 2278.48
+    "rate": 2279.75
   },
   {
     "fromTo": "USDCHF",
-    "rate": 0.8118
+    "rate": 0.81199
   },
   {
     "fromTo": "USDCLP",
-    "rate": 913.97
+    "rate": 914.04
   },
   {
     "fromTo": "USDCNH",
@@ -121,11 +121,11 @@
   },
   {
     "fromTo": "USDCOP",
-    "rate": 3129.33
+    "rate": 3131.77
   },
   {
     "fromTo": "USDCRC",
-    "rate": 451.38
+    "rate": 451.57
   },
   {
     "fromTo": "USDCUP",
@@ -141,79 +141,79 @@
   },
   {
     "fromTo": "USDDJF",
-    "rate": 177.24
+    "rate": 177.33
   },
   {
     "fromTo": "USDDKK",
-    "rate": 6.4776
+    "rate": 6.4778
   },
   {
     "fromTo": "USDDOP",
-    "rate": 59.2
+    "rate": 59.232
   },
   {
     "fromTo": "USDDZD",
-    "rate": 132.93
+    "rate": 132.95
   },
   {
     "fromTo": "USDEGP",
-    "rate": 50.197
+    "rate": 50.214
   },
   {
     "fromTo": "USDERN",
-    "rate": 15.2284
+    "rate": 15.2409
   },
   {
     "fromTo": "USDETB",
-    "rate": 160.46
+    "rate": 160.5
   },
   {
     "fromTo": "USDEUR",
-    "rate": 0.86621
+    "rate": 0.86618
   },
   {
     "fromTo": "USDFJD",
-    "rate": 2.2187
+    "rate": 2.2195
   },
   {
     "fromTo": "USDFKP",
-    "rate": 0.74026
+    "rate": 0.7401
   },
   {
     "fromTo": "USDGBP",
-    "rate": 0.74026
+    "rate": 0.7401
   },
   {
     "fromTo": "USDGEL",
-    "rate": 2.6135
+    "rate": 2.6138
   },
   {
     "fromTo": "USDGGP",
-    "rate": 0.74026
+    "rate": 0.7401
   },
   {
     "fromTo": "USDGHS",
-    "rate": 11.6183
+    "rate": 11.6193
   },
   {
     "fromTo": "USDGIP",
-    "rate": 0.74768
+    "rate": 0.74799
   },
   {
     "fromTo": "USDGMD",
-    "rate": 73.336
+    "rate": 73.228
   },
   {
     "fromTo": "USDGNF",
-    "rate": 8270
+    "rate": 8260
   },
   {
     "fromTo": "USDGTQ",
-    "rate": 7.628
+    "rate": 7.6343
   },
   {
     "fromTo": "USDGYD",
-    "rate": 210.97
+    "rate": 211.09
   },
   {
     "fromTo": "USDHKD",
@@ -221,51 +221,51 @@
   },
   {
     "fromTo": "USDHNL",
-    "rate": 26.814
+    "rate": 26.836
   },
   {
     "fromTo": "USDHTG",
-    "rate": 130.71
+    "rate": 130.82
   },
   {
     "fromTo": "USDHUF",
-    "rate": 315.7
+    "rate": 315.61
   },
   {
     "fromTo": "USDIDR",
-    "rate": 17850
+    "rate": 17852
   },
   {
     "fromTo": "USDILS",
-    "rate": 2.9926
+    "rate": 2.9909
   },
   {
     "fromTo": "USDIMP",
-    "rate": 0.74026
+    "rate": 0.7401
   },
   {
     "fromTo": "USDINR",
-    "rate": 95.35
+    "rate": 95.34
   },
   {
     "fromTo": "USDIQD",
-    "rate": 1309.61
+    "rate": 1309.67
   },
   {
     "fromTo": "USDIRR",
-    "rate": 1370869
+    "rate": 1371132
   },
   {
     "fromTo": "USDISK",
-    "rate": 122.98
+    "rate": 123.0
   },
   {
     "fromTo": "USDJEP",
-    "rate": 0.74026
+    "rate": 0.7401
   },
   {
     "fromTo": "USDJMD",
-    "rate": 157.0
+    "rate": 157.06
   },
   {
     "fromTo": "USDJOD",
@@ -273,31 +273,31 @@
   },
   {
     "fromTo": "USDJPY",
-    "rate": 159.27
+    "rate": 159.29
   },
   {
     "fromTo": "USDKES",
-    "rate": 129.1
+    "rate": 129.12
   },
   {
     "fromTo": "USDKGS",
-    "rate": 87.47
+    "rate": 87.48
   },
   {
     "fromTo": "USDKHR",
-    "rate": 4051.61
+    "rate": 4052.96
   },
   {
     "fromTo": "USDKMF",
-    "rate": 426.67
+    "rate": 427.03
   },
   {
     "fromTo": "USDKRW",
-    "rate": 1416.19
+    "rate": 1416.68
   },
   {
     "fromTo": "USDKWD",
-    "rate": 0.30781
+    "rate": 0.30785
   },
   {
     "fromTo": "USDKYD",
@@ -305,55 +305,55 @@
   },
   {
     "fromTo": "USDKZT",
-    "rate": 465.56
+    "rate": 465.45
   },
   {
     "fromTo": "USDLAK",
-    "rate": 22518
+    "rate": 22526
   },
   {
     "fromTo": "USDLBP",
-    "rate": 89899
+    "rate": 89929
   },
   {
     "fromTo": "USDLKR",
-    "rate": 333.63
+    "rate": 333.42
   },
   {
     "fromTo": "USDLRD",
-    "rate": 181.74
+    "rate": 181.85
   },
   {
     "fromTo": "USDLSL",
-    "rate": 16.15
+    "rate": 16.1589
   },
   {
     "fromTo": "USDLYD",
-    "rate": 6.3708
+    "rate": 6.3735
   },
   {
     "fromTo": "USDMAD",
-    "rate": 9.3001
+    "rate": 9.3027
   },
   {
     "fromTo": "USDMDL",
-    "rate": 17.3256
+    "rate": 17.3262
   },
   {
     "fromTo": "USDMGA",
-    "rate": 4281.72
+    "rate": 4284.1
   },
   {
     "fromTo": "USDMKD",
-    "rate": 53.307
+    "rate": 53.35
   },
   {
     "fromTo": "USDMMK",
-    "rate": 2097.84
+    "rate": 2098.23
   },
   {
     "fromTo": "USDMNT",
-    "rate": 3596.39
+    "rate": 3597.5
   },
   {
     "fromTo": "USDMOP",
@@ -365,55 +365,55 @@
   },
   {
     "fromTo": "USDMRU",
-    "rate": 40.128
+    "rate": 40.15
   },
   {
     "fromTo": "USDMUR",
-    "rate": 47.13
+    "rate": 47.15
   },
   {
     "fromTo": "USDMVR",
-    "rate": 15.3995
+    "rate": 15.4059
   },
   {
     "fromTo": "USDMWK",
-    "rate": 1737.0
+    "rate": 1737.58
   },
   {
     "fromTo": "USDMXN",
-    "rate": 17.0699
+    "rate": 17.0688
   },
   {
     "fromTo": "USDMYR",
-    "rate": 4.0867
+    "rate": 4.0865
   },
   {
     "fromTo": "USDMZN",
-    "rate": 63.635
+    "rate": 63.662
   },
   {
     "fromTo": "USDNAD",
-    "rate": 16.1578
+    "rate": 16.1645
   },
   {
     "fromTo": "USDNGN",
-    "rate": 1362.05
+    "rate": 1362.33
   },
   {
     "fromTo": "USDNIO",
-    "rate": 36.779
+    "rate": 36.794
   },
   {
     "fromTo": "USDNOK",
-    "rate": 9.4901
+    "rate": 9.4917
   },
   {
     "fromTo": "USDNPR",
-    "rate": 152.58
+    "rate": 152.62
   },
   {
     "fromTo": "USDNZD",
-    "rate": 1.7046
+    "rate": 1.7054
   },
   {
     "fromTo": "USDOMR",
@@ -421,31 +421,31 @@
   },
   {
     "fromTo": "USDPAB",
-    "rate": 1.0
+    "rate": 1.0008
   },
   {
     "fromTo": "USDPEN",
-    "rate": 3.3669
+    "rate": 3.3671
   },
   {
     "fromTo": "USDPGK",
-    "rate": 4.4256
+    "rate": 4.427
   },
   {
     "fromTo": "USDPHP",
-    "rate": 61.188
+    "rate": 61.213
   },
   {
     "fromTo": "USDPKR",
-    "rate": 278.35
+    "rate": 278.39
   },
   {
     "fromTo": "USDPLN",
-    "rate": 3.7291
+    "rate": 3.73
   },
   {
     "fromTo": "USDPYG",
-    "rate": 5967
+    "rate": 5970
   },
   {
     "fromTo": "USDQAR",
@@ -453,19 +453,19 @@
   },
   {
     "fromTo": "USDRON",
-    "rate": 4.5408
+    "rate": 4.5415
   },
   {
     "fromTo": "USDRSD",
-    "rate": 101.69
+    "rate": 101.7
   },
   {
     "fromTo": "USDRUB",
-    "rate": 82.76
+    "rate": 82.87
   },
   {
     "fromTo": "USDRWF",
-    "rate": 1471.74
+    "rate": 1472.14
   },
   {
     "fromTo": "USDSAR",
@@ -473,19 +473,19 @@
   },
   {
     "fromTo": "USDSBD",
-    "rate": 8.0122
+    "rate": 8.0166
   },
   {
     "fromTo": "USDSCR",
-    "rate": 14.2034
+    "rate": 14.211
   },
   {
     "fromTo": "USDSDG",
-    "rate": 600.15
+    "rate": 600.49
   },
   {
     "fromTo": "USDSEK",
-    "rate": 9.5305
+    "rate": 9.5372
   },
   {
     "fromTo": "USDSGD",
@@ -493,47 +493,47 @@
   },
   {
     "fromTo": "USDSHP",
-    "rate": 0.74026
+    "rate": 0.7401
   },
   {
     "fromTo": "USDSLE",
-    "rate": 24.483
+    "rate": 24.503
   },
   {
     "fromTo": "USDSOS",
-    "rate": 571.47
+    "rate": 571.95
   },
   {
     "fromTo": "USDSRD",
-    "rate": 37.943
+    "rate": 37.975
   },
   {
     "fromTo": "USDSSP",
-    "rate": 5372
+    "rate": 5377
   },
   {
     "fromTo": "USDSTN",
-    "rate": 21.335
+    "rate": 21.353
   },
   {
     "fromTo": "USDSVC",
-    "rate": 8.7529
+    "rate": 8.7602
   },
   {
     "fromTo": "USDSYP",
-    "rate": 122.03
+    "rate": 122.1
   },
   {
     "fromTo": "USDSZL",
-    "rate": 16.1582
+    "rate": 16.1717
   },
   {
     "fromTo": "USDTHB",
-    "rate": 33.078
+    "rate": 33.083
   },
   {
     "fromTo": "USDTJS",
-    "rate": 9.2376
+    "rate": 9.24
   },
   {
     "fromTo": "USDTMT",
@@ -541,11 +541,11 @@
   },
   {
     "fromTo": "USDTND",
-    "rate": 2.9316
+    "rate": 2.9325
   },
   {
     "fromTo": "USDTOP",
-    "rate": 2.3642
+    "rate": 2.3655
   },
   {
     "fromTo": "USDTRY",
@@ -553,7 +553,7 @@
   },
   {
     "fromTo": "USDTTD",
-    "rate": 6.747
+    "rate": 6.7498
   },
   {
     "fromTo": "USDTWD",
@@ -561,15 +561,15 @@
   },
   {
     "fromTo": "USDTZS",
-    "rate": 2642.62
+    "rate": 2643.17
   },
   {
     "fromTo": "USDUAH",
-    "rate": 44.724
+    "rate": 44.709
   },
   {
     "fromTo": "USDUGX",
-    "rate": 3717.53
+    "rate": 3718.56
   },
   {
     "fromTo": "USDUSD",
@@ -577,35 +577,35 @@
   },
   {
     "fromTo": "USDUYU",
-    "rate": 40.262
+    "rate": 40.28
   },
   {
     "fromTo": "USDUZS",
-    "rate": 11923
+    "rate": 11926
   },
   {
     "fromTo": "USDVES",
-    "rate": 762.7
+    "rate": 763.12
   },
   {
     "fromTo": "USDVND",
-    "rate": 26034
+    "rate": 26037
   },
   {
     "fromTo": "USDVUV",
-    "rate": 117.19
+    "rate": 117.25
   },
   {
     "fromTo": "USDWST",
-    "rate": 2.7118
+    "rate": 2.713
   },
   {
     "fromTo": "USDXAF",
-    "rate": 568.2
+    "rate": 568.17
   },
   {
     "fromTo": "USDXAG",
-    "rate": 0.01532
+    "rate": 0.01518
   },
   {
     "fromTo": "USDXAU",
@@ -613,19 +613,19 @@
   },
   {
     "fromTo": "USDXCD",
-    "rate": 2.7392
+    "rate": 2.7407
   },
   {
     "fromTo": "USDXCG",
-    "rate": 1.7962
+    "rate": 1.7977
   },
   {
     "fromTo": "USDXDR",
-    "rate": 0.73161
+    "rate": 0.73169
   },
   {
     "fromTo": "USDXOF",
-    "rate": 568.2
+    "rate": 568.17
   },
   {
     "fromTo": "USDXPD",
@@ -633,7 +633,7 @@
   },
   {
     "fromTo": "USDXPF",
-    "rate": 103.4
+    "rate": 103.48
   },
   {
     "fromTo": "USDXPT",
@@ -641,18 +641,18 @@
   },
   {
     "fromTo": "USDYER",
-    "rate": 237.22
+    "rate": 237.35
   },
   {
     "fromTo": "USDZAR",
-    "rate": 16.1342
+    "rate": 16.1314
   },
   {
     "fromTo": "USDZMW",
-    "rate": 18.7468
+    "rate": 18.752
   },
   {
     "fromTo": "USDZWG",
-    "rate": 26.57
+    "rate": 26.592
   }
 ]

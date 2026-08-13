@@ -6,15 +6,15 @@
   </Rate>
   <Rate>
     <fromTo>USDAFN</fromTo>
-    <rate>65.108</rate>
+    <rate>65.128</rate>
   </Rate>
   <Rate>
     <fromTo>USDALL</fromTo>
-    <rate>80.47</rate>
+    <rate>80.51</rate>
   </Rate>
   <Rate>
     <fromTo>USDAMD</fromTo>
-    <rate>365.99</rate>
+    <rate>366.0</rate>
   </Rate>
   <Rate>
     <fromTo>USDANG</fromTo>
@@ -22,35 +22,35 @@
   </Rate>
   <Rate>
     <fromTo>USDAOA</fromTo>
-    <rate>917.45</rate>
+    <rate>917.96</rate>
   </Rate>
   <Rate>
     <fromTo>USDARS</fromTo>
-    <rate>1491.32</rate>
+    <rate>1491.78</rate>
   </Rate>
   <Rate>
     <fromTo>USDAUD</fromTo>
-    <rate>1.4168</rate>
+    <rate>1.4169</rate>
   </Rate>
   <Rate>
     <fromTo>USDAWG</fromTo>
-    <rate>1.7901</rate>
+    <rate>1.7911</rate>
   </Rate>
   <Rate>
     <fromTo>USDAZN</fromTo>
-    <rate>1.6995</rate>
+    <rate>1.6998</rate>
   </Rate>
   <Rate>
     <fromTo>USDBAM</fromTo>
-    <rate>1.6942</rate>
+    <rate>1.6941</rate>
   </Rate>
   <Rate>
     <fromTo>USDBBD</fromTo>
-    <rate>2.0327</rate>
+    <rate>2.0338</rate>
   </Rate>
   <Rate>
     <fromTo>USDBDT</fromTo>
-    <rate>123.31</rate>
+    <rate>123.34</rate>
   </Rate>
   <Rate>
     <fromTo>USDBHD</fromTo>
@@ -58,7 +58,7 @@
   </Rate>
   <Rate>
     <fromTo>USDBIF</fromTo>
-    <rate>2995.47</rate>
+    <rate>2996.3</rate>
   </Rate>
   <Rate>
     <fromTo>USDBMD</fromTo>
@@ -70,47 +70,47 @@
   </Rate>
   <Rate>
     <fromTo>USDBOB</fromTo>
-    <rate>11.7309</rate>
+    <rate>11.7266</rate>
   </Rate>
   <Rate>
     <fromTo>USDBRL</fromTo>
-    <rate>5.159</rate>
+    <rate>5.162</rate>
   </Rate>
   <Rate>
     <fromTo>USDBSD</fromTo>
-    <rate>1.0105</rate>
+    <rate>1.0109</rate>
   </Rate>
   <Rate>
     <fromTo>USDBTN</fromTo>
-    <rate>95.35</rate>
+    <rate>95.34</rate>
   </Rate>
   <Rate>
     <fromTo>USDBWP</fromTo>
-    <rate>13.2298</rate>
+    <rate>13.2326</rate>
   </Rate>
   <Rate>
     <fromTo>USDBYN</fromTo>
-    <rate>2.9674</rate>
+    <rate>2.9694</rate>
   </Rate>
   <Rate>
     <fromTo>USDBZD</fromTo>
-    <rate>2.0317</rate>
+    <rate>2.0328</rate>
   </Rate>
   <Rate>
     <fromTo>USDCAD</fromTo>
-    <rate>1.3927</rate>
+    <rate>1.3928</rate>
   </Rate>
   <Rate>
     <fromTo>USDCDF</fromTo>
-    <rate>2278.48</rate>
+    <rate>2279.75</rate>
   </Rate>
   <Rate>
     <fromTo>USDCHF</fromTo>
-    <rate>0.8118</rate>
+    <rate>0.81199</rate>
   </Rate>
   <Rate>
     <fromTo>USDCLP</fromTo>
-    <rate>913.97</rate>
+    <rate>914.04</rate>
   </Rate>
   <Rate>
     <fromTo>USDCNH</fromTo>
@@ -122,11 +122,11 @@
   </Rate>
   <Rate>
     <fromTo>USDCOP</fromTo>
-    <rate>3129.33</rate>
+    <rate>3131.77</rate>
   </Rate>
   <Rate>
     <fromTo>USDCRC</fromTo>
-    <rate>451.38</rate>
+    <rate>451.57</rate>
   </Rate>
   <Rate>
     <fromTo>USDCUP</fromTo>
@@ -142,79 +142,79 @@
   </Rate>
   <Rate>
     <fromTo>USDDJF</fromTo>
-    <rate>177.24</rate>
+    <rate>177.33</rate>
   </Rate>
   <Rate>
     <fromTo>USDDKK</fromTo>
-    <rate>6.4776</rate>
+    <rate>6.4778</rate>
   </Rate>
   <Rate>
     <fromTo>USDDOP</fromTo>
-    <rate>59.2</rate>
+    <rate>59.232</rate>
   </Rate>
   <Rate>
     <fromTo>USDDZD</fromTo>
-    <rate>132.93</rate>
+    <rate>132.95</rate>
   </Rate>
   <Rate>
     <fromTo>USDEGP</fromTo>
-    <rate>50.197</rate>
+    <rate>50.214</rate>
   </Rate>
   <Rate>
     <fromTo>USDERN</fromTo>
-    <rate>15.2284</rate>
+    <rate>15.2409</rate>
   </Rate>
   <Rate>
     <fromTo>USDETB</fromTo>
-    <rate>160.46</rate>
+    <rate>160.5</rate>
   </Rate>
   <Rate>
     <fromTo>USDEUR</fromTo>
-    <rate>0.86621</rate>
+    <rate>0.86618</rate>
   </Rate>
   <Rate>
     <fromTo>USDFJD</fromTo>
-    <rate>2.2187</rate>
+    <rate>2.2195</rate>
   </Rate>
   <Rate>
     <fromTo>USDFKP</fromTo>
-    <rate>0.74026</rate>
+    <rate>0.7401</rate>
   </Rate>
   <Rate>
     <fromTo>USDGBP</fromTo>
-    <rate>0.74026</rate>
+    <rate>0.7401</rate>
   </Rate>
   <Rate>
     <fromTo>USDGEL</fromTo>
-    <rate>2.6135</rate>
+    <rate>2.6138</rate>
   </Rate>
   <Rate>
     <fromTo>USDGGP</fromTo>
-    <rate>0.74026</rate>
+    <rate>0.7401</rate>
   </Rate>
   <Rate>
     <fromTo>USDGHS</fromTo>
-    <rate>11.6183</rate>
+    <rate>11.6193</rate>
   </Rate>
   <Rate>
     <fromTo>USDGIP</fromTo>
-    <rate>0.74768</rate>
+    <rate>0.74799</rate>
   </Rate>
   <Rate>
     <fromTo>USDGMD</fromTo>
-    <rate>73.336</rate>
+    <rate>73.228</rate>
   </Rate>
   <Rate>
     <fromTo>USDGNF</fromTo>
-    <rate>8270</rate>
+    <rate>8260</rate>
   </Rate>
   <Rate>
     <fromTo>USDGTQ</fromTo>
-    <rate>7.628</rate>
+    <rate>7.6343</rate>
   </Rate>
   <Rate>
     <fromTo>USDGYD</fromTo>
-    <rate>210.97</rate>
+    <rate>211.09</rate>
   </Rate>
   <Rate>
     <fromTo>USDHKD</fromTo>
@@ -222,51 +222,51 @@
   </Rate>
   <Rate>
     <fromTo>USDHNL</fromTo>
-    <rate>26.814</rate>
+    <rate>26.836</rate>
   </Rate>
   <Rate>
     <fromTo>USDHTG</fromTo>
-    <rate>130.71</rate>
+    <rate>130.82</rate>
   </Rate>
   <Rate>
     <fromTo>USDHUF</fromTo>
-    <rate>315.7</rate>
+    <rate>315.61</rate>
   </Rate>
   <Rate>
     <fromTo>USDIDR</fromTo>
-    <rate>17850</rate>
+    <rate>17852</rate>
   </Rate>
   <Rate>
     <fromTo>USDILS</fromTo>
-    <rate>2.9926</rate>
+    <rate>2.9909</rate>
   </Rate>
   <Rate>
     <fromTo>USDIMP</fromTo>
-    <rate>0.74026</rate>
+    <rate>0.7401</rate>
   </Rate>
   <Rate>
     <fromTo>USDINR</fromTo>
-    <rate>95.35</rate>
+    <rate>95.34</rate>
   </Rate>
   <Rate>
     <fromTo>USDIQD</fromTo>
-    <rate>1309.61</rate>
+    <rate>1309.67</rate>
   </Rate>
   <Rate>
     <fromTo>USDIRR</fromTo>
-    <rate>1370869</rate>
+    <rate>1371132</rate>
   </Rate>
   <Rate>
     <fromTo>USDISK</fromTo>
-    <rate>122.98</rate>
+    <rate>123.0</rate>
   </Rate>
   <Rate>
     <fromTo>USDJEP</fromTo>
-    <rate>0.74026</rate>
+    <rate>0.7401</rate>
   </Rate>
   <Rate>
     <fromTo>USDJMD</fromTo>
-    <rate>157.0</rate>
+    <rate>157.06</rate>
   </Rate>
   <Rate>
     <fromTo>USDJOD</fromTo>
@@ -274,31 +274,31 @@
   </Rate>
   <Rate>
     <fromTo>USDJPY</fromTo>
-    <rate>159.27</rate>
+    <rate>159.29</rate>
   </Rate>
   <Rate>
     <fromTo>USDKES</fromTo>
-    <rate>129.1</rate>
+    <rate>129.12</rate>
   </Rate>
   <Rate>
     <fromTo>USDKGS</fromTo>
-    <rate>87.47</rate>
+    <rate>87.48</rate>
   </Rate>
   <Rate>
     <fromTo>USDKHR</fromTo>
-    <rate>4051.61</rate>
+    <rate>4052.96</rate>
   </Rate>
   <Rate>
     <fromTo>USDKMF</fromTo>
-    <rate>426.67</rate>
+    <rate>427.03</rate>
   </Rate>
   <Rate>
     <fromTo>USDKRW</fromTo>
-    <rate>1416.19</rate>
+    <rate>1416.68</rate>
   </Rate>
   <Rate>
     <fromTo>USDKWD</fromTo>
-    <rate>0.30781</rate>
+    <rate>0.30785</rate>
   </Rate>
   <Rate>
     <fromTo>USDKYD</fromTo>
@@ -306,55 +306,55 @@
   </Rate>
   <Rate>
     <fromTo>USDKZT</fromTo>
-    <rate>465.56</rate>
+    <rate>465.45</rate>
   </Rate>
   <Rate>
     <fromTo>USDLAK</fromTo>
-    <rate>22518</rate>
+    <rate>22526</rate>
   </Rate>
   <Rate>
     <fromTo>USDLBP</fromTo>
-    <rate>89899</rate>
+    <rate>89929</rate>
   </Rate>
   <Rate>
     <fromTo>USDLKR</fromTo>
-    <rate>333.63</rate>
+    <rate>333.42</rate>
   </Rate>
   <Rate>
     <fromTo>USDLRD</fromTo>
-    <rate>181.74</rate>
+    <rate>181.85</rate>
   </Rate>
   <Rate>
     <fromTo>USDLSL</fromTo>
-    <rate>16.15</rate>
+    <rate>16.1589</rate>
   </Rate>
   <Rate>
     <fromTo>USDLYD</fromTo>
-    <rate>6.3708</rate>
+    <rate>6.3735</rate>
   </Rate>
   <Rate>
     <fromTo>USDMAD</fromTo>
-    <rate>9.3001</rate>
+    <rate>9.3027</rate>
   </Rate>
   <Rate>
     <fromTo>USDMDL</fromTo>
-    <rate>17.3256</rate>
+    <rate>17.3262</rate>
   </Rate>
   <Rate>
     <fromTo>USDMGA</fromTo>
-    <rate>4281.72</rate>
+    <rate>4284.1</rate>
   </Rate>
   <Rate>
     <fromTo>USDMKD</fromTo>
-    <rate>53.307</rate>
+    <rate>53.35</rate>
   </Rate>
   <Rate>
     <fromTo>USDMMK</fromTo>
-    <rate>2097.84</rate>
+    <rate>2098.23</rate>
   </Rate>
   <Rate>
     <fromTo>USDMNT</fromTo>
-    <rate>3596.39</rate>
+    <rate>3597.5</rate>
   </Rate>
   <Rate>
     <fromTo>USDMOP</fromTo>
@@ -366,55 +366,55 @@
   </Rate>
   <Rate>
     <fromTo>USDMRU</fromTo>
-    <rate>40.128</rate>
+    <rate>40.15</rate>
   </Rate>
   <Rate>
     <fromTo>USDMUR</fromTo>
-    <rate>47.13</rate>
+    <rate>47.15</rate>
   </Rate>
   <Rate>
     <fromTo>USDMVR</fromTo>
-    <rate>15.3995</rate>
+    <rate>15.4059</rate>
   </Rate>
   <Rate>
     <fromTo>USDMWK</fromTo>
-    <rate>1737.0</rate>
+    <rate>1737.58</rate>
   </Rate>
   <Rate>
     <fromTo>USDMXN</fromTo>
-    <rate>17.0699</rate>
+    <rate>17.0688</rate>
   </Rate>
   <Rate>
     <fromTo>USDMYR</fromTo>
-    <rate>4.0867</rate>
+    <rate>4.0865</rate>
   </Rate>
   <Rate>
     <fromTo>USDMZN</fromTo>
-    <rate>63.635</rate>
+    <rate>63.662</rate>
   </Rate>
   <Rate>
     <fromTo>USDNAD</fromTo>
-    <rate>16.1578</rate>
+    <rate>16.1645</rate>
   </Rate>
   <Rate>
     <fromTo>USDNGN</fromTo>
-    <rate>1362.05</rate>
+    <rate>1362.33</rate>
   </Rate>
   <Rate>
     <fromTo>USDNIO</fromTo>
-    <rate>36.779</rate>
+    <rate>36.794</rate>
   </Rate>
   <Rate>
     <fromTo>USDNOK</fromTo>
-    <rate>9.4901</rate>
+    <rate>9.4917</rate>
   </Rate>
   <Rate>
     <fromTo>USDNPR</fromTo>
-    <rate>152.58</rate>
+    <rate>152.62</rate>
   </Rate>
   <Rate>
     <fromTo>USDNZD</fromTo>
-    <rate>1.7046</rate>
+    <rate>1.7054</rate>
   </Rate>
   <Rate>
     <fromTo>USDOMR</fromTo>
@@ -422,31 +422,31 @@
   </Rate>
   <Rate>
     <fromTo>USDPAB</fromTo>
-    <rate>1.0</rate>
+    <rate>1.0008</rate>
   </Rate>
   <Rate>
     <fromTo>USDPEN</fromTo>
-    <rate>3.3669</rate>
+    <rate>3.3671</rate>
   </Rate>
   <Rate>
     <fromTo>USDPGK</fromTo>
-    <rate>4.4256</rate>
+    <rate>4.427</rate>
   </Rate>
   <Rate>
     <fromTo>USDPHP</fromTo>
-    <rate>61.188</rate>
+    <rate>61.213</rate>
   </Rate>
   <Rate>
     <fromTo>USDPKR</fromTo>
-    <rate>278.35</rate>
+    <rate>278.39</rate>
   </Rate>
   <Rate>
     <fromTo>USDPLN</fromTo>
-    <rate>3.7291</rate>
+    <rate>3.73</rate>
   </Rate>
   <Rate>
     <fromTo>USDPYG</fromTo>
-    <rate>5967</rate>
+    <rate>5970</rate>
   </Rate>
   <Rate>
     <fromTo>USDQAR</fromTo>
@@ -454,19 +454,19 @@
   </Rate>
   <Rate>
     <fromTo>USDRON</fromTo>
-    <rate>4.5408</rate>
+    <rate>4.5415</rate>
   </Rate>
   <Rate>
     <fromTo>USDRSD</fromTo>
-    <rate>101.69</rate>
+    <rate>101.7</rate>
   </Rate>
   <Rate>
     <fromTo>USDRUB</fromTo>
-    <rate>82.76</rate>
+    <rate>82.87</rate>
   </Rate>
   <Rate>
     <fromTo>USDRWF</fromTo>
-    <rate>1471.74</rate>
+    <rate>1472.14</rate>
   </Rate>
   <Rate>
     <fromTo>USDSAR</fromTo>
@@ -474,19 +474,19 @@
   </Rate>
   <Rate>
     <fromTo>USDSBD</fromTo>
-    <rate>8.0122</rate>
+    <rate>8.0166</rate>
   </Rate>
   <Rate>
     <fromTo>USDSCR</fromTo>
-    <rate>14.2034</rate>
+    <rate>14.211</rate>
   </Rate>
   <Rate>
     <fromTo>USDSDG</fromTo>
-    <rate>600.15</rate>
+    <rate>600.49</rate>
   </Rate>
   <Rate>
     <fromTo>USDSEK</fromTo>
-    <rate>9.5305</rate>
+    <rate>9.5372</rate>
   </Rate>
   <Rate>
     <fromTo>USDSGD</fromTo>
@@ -494,47 +494,47 @@
   </Rate>
   <Rate>
     <fromTo>USDSHP</fromTo>
-    <rate>0.74026</rate>
+    <rate>0.7401</rate>
   </Rate>
   <Rate>
     <fromTo>USDSLE</fromTo>
-    <rate>24.483</rate>
+    <rate>24.503</rate>
   </Rate>
   <Rate>
     <fromTo>USDSOS</fromTo>
-    <rate>571.47</rate>
+    <rate>571.95</rate>
   </Rate>
   <Rate>
     <fromTo>USDSRD</fromTo>
-    <rate>37.943</rate>
+    <rate>37.975</rate>
   </Rate>
   <Rate>
     <fromTo>USDSSP</fromTo>
-    <rate>5372</rate>
+    <rate>5377</rate>
   </Rate>
   <Rate>
     <fromTo>USDSTN</fromTo>
-    <rate>21.335</rate>
+    <rate>21.353</rate>
   </Rate>
   <Rate>
     <fromTo>USDSVC</fromTo>
-    <rate>8.7529</rate>
+    <rate>8.7602</rate>
   </Rate>
   <Rate>
     <fromTo>USDSYP</fromTo>
-    <rate>122.03</rate>
+    <rate>122.1</rate>
   </Rate>
   <Rate>
     <fromTo>USDSZL</fromTo>
-    <rate>16.1582</rate>
+    <rate>16.1717</rate>
   </Rate>
   <Rate>
     <fromTo>USDTHB</fromTo>
-    <rate>33.078</rate>
+    <rate>33.083</rate>
   </Rate>
   <Rate>
     <fromTo>USDTJS</fromTo>
-    <rate>9.2376</rate>
+    <rate>9.24</rate>
   </Rate>
   <Rate>
     <fromTo>USDTMT</fromTo>
@@ -542,11 +542,11 @@
   </Rate>
   <Rate>
     <fromTo>USDTND</fromTo>
-    <rate>2.9316</rate>
+    <rate>2.9325</rate>
   </Rate>
   <Rate>
     <fromTo>USDTOP</fromTo>
-    <rate>2.3642</rate>
+    <rate>2.3655</rate>
   </Rate>
   <Rate>
     <fromTo>USDTRY</fromTo>
@@ -554,7 +554,7 @@
   </Rate>
   <Rate>
     <fromTo>USDTTD</fromTo>
-    <rate>6.747</rate>
+    <rate>6.7498</rate>
   </Rate>
   <Rate>
     <fromTo>USDTWD</fromTo>
@@ -562,15 +562,15 @@
   </Rate>
   <Rate>
     <fromTo>USDTZS</fromTo>
-    <rate>2642.62</rate>
+    <rate>2643.17</rate>
   </Rate>
   <Rate>
     <fromTo>USDUAH</fromTo>
-    <rate>44.724</rate>
+    <rate>44.709</rate>
   </Rate>
   <Rate>
     <fromTo>USDUGX</fromTo>
-    <rate>3717.53</rate>
+    <rate>3718.56</rate>
   </Rate>
   <Rate>
     <fromTo>USDUSD</fromTo>
@@ -578,35 +578,35 @@
   </Rate>
   <Rate>
     <fromTo>USDUYU</fromTo>
-    <rate>40.262</rate>
+    <rate>40.28</rate>
   </Rate>
   <Rate>
     <fromTo>USDUZS</fromTo>
-    <rate>11923</rate>
+    <rate>11926</rate>
   </Rate>
   <Rate>
     <fromTo>USDVES</fromTo>
-    <rate>762.7</rate>
+    <rate>763.12</rate>
   </Rate>
   <Rate>
     <fromTo>USDVND</fromTo>
-    <rate>26034</rate>
+    <rate>26037</rate>
   </Rate>
   <Rate>
     <fromTo>USDVUV</fromTo>
-    <rate>117.19</rate>
+    <rate>117.25</rate>
   </Rate>
   <Rate>
     <fromTo>USDWST</fromTo>
-    <rate>2.7118</rate>
+    <rate>2.713</rate>
   </Rate>
   <Rate>
     <fromTo>USDXAF</fromTo>
-    <rate>568.2</rate>
+    <rate>568.17</rate>
   </Rate>
   <Rate>
     <fromTo>USDXAG</fromTo>
-    <rate>0.01532</rate>
+    <rate>0.01518</rate>
   </Rate>
   <Rate>
     <fromTo>USDXAU</fromTo>
@@ -614,19 +614,19 @@
   </Rate>
   <Rate>
     <fromTo>USDXCD</fromTo>
-    <rate>2.7392</rate>
+    <rate>2.7407</rate>
   </Rate>
   <Rate>
     <fromTo>USDXCG</fromTo>
-    <rate>1.7962</rate>
+    <rate>1.7977</rate>
   </Rate>
   <Rate>
     <fromTo>USDXDR</fromTo>
-    <rate>0.73161</rate>
+    <rate>0.73169</rate>
   </Rate>
   <Rate>
     <fromTo>USDXOF</fromTo>
-    <rate>568.2</rate>
+    <rate>568.17</rate>
   </Rate>
   <Rate>
     <fromTo>USDXPD</fromTo>
@@ -634,7 +634,7 @@
   </Rate>
   <Rate>
     <fromTo>USDXPF</fromTo>
-    <rate>103.4</rate>
+    <rate>103.48</rate>
   </Rate>
   <Rate>
     <fromTo>USDXPT</fromTo>
@@ -642,18 +642,18 @@
   </Rate>
   <Rate>
     <fromTo>USDYER</fromTo>
-    <rate>237.22</rate>
+    <rate>237.35</rate>
   </Rate>
   <Rate>
     <fromTo>USDZAR</fromTo>
-    <rate>16.1342</rate>
+    <rate>16.1314</rate>
   </Rate>
   <Rate>
     <fromTo>USDZMW</fromTo>
-    <rate>18.7468</rate>
+    <rate>18.752</rate>
   </Rate>
   <Rate>
     <fromTo>USDZWG</fromTo>
-    <rate>26.57</rate>
+    <rate>26.592</rate>
   </Rate>
 </Rates>

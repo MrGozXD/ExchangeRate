@@ -10,12 +10,14 @@ internal class Program
         var JSONWriter = new FileJSON(date);
         var CSVWriter = new FileCSV(date);
         var XMLWriter = new FileXML(date);
-        var Writers = new List<ExchangeRate.File> { JSONWriter, CSVWriter, XMLWriter };
+        var SequentialWriter = new FileSequential(date);
+        var Writers = new List<ExchangeRate.File> { JSONWriter, CSVWriter, XMLWriter, SequentialWriter };
 
 
         if (rates != null)
         {
             Console.WriteLine($"Nombre de taux de change récupérés : {rates.Count}");
+
             foreach (var rate in rates)
             {
                 Console.WriteLine($"{rate.Base} -> {rate.Quote} : {rate.Rate} (le {rate.Date})");
